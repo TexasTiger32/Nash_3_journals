@@ -1,0 +1,6 @@
+1. cd to your personal directory
+2. pwd to check if youre in it
+3. git add file
+4. git commit -m "message"
+5. git push -u origin master
+
