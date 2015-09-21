@@ -1,0 +1,5 @@
+int- a whole number
+short, long, double-numbers with decimalss
+string- a lot of characters
+boolean- True  or False
+float- a floating point decimal
