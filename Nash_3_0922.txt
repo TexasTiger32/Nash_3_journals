@@ -1,12 +1,13 @@
 Copyright- stealing someones work without permission for personal benefit
 Copyleft-Work that has been changed
-Fair Use- a limitation to the right granted byu copyright law
+Fair Use- a limitation to the right granted by copyright law
 Free Speech-The right to communicate your idea and opinions
-Free Software- Free Software.
+Free Software-  Software you can edit or use
 
-Freeware- computer software that is free to your use
+Freeware- computer software that is free to your use, you can change etc, with
+the rules
 Public Domain- software that has been placed in the public domain
-File sharing- sharing files
-Piracy-An act of robbery or criminL VIOLENCE
-Plagiarism- Copying somebodys work word by word without quoting or giving them
+File sharing- sending information across the internet or network
+Piracy- taking files
+Plagiarism- Copying somebodys work, word by word without quoting or giving them
 credit
