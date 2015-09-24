@@ -22,4 +22,6 @@ MIT License- a license at the  MIT institute
 EULA- The End User License Agreement * a legal contract *
 Creative Commons- a non-profit  organization
 
-
+Questions
+1) I have seen this license in Linux
+2)
