@@ -11,3 +11,15 @@ File sharing- sending information across the internet or network
 Piracy- taking files
 Plagiarism- Copying somebodys work, word by word without quoting or giving them
 credit
+Infringement- the violation of a law or a right
+Proprietary-  relating to an owner or ownership.
+Open Source- a software that can be freely used and changed to share
+GNU GPL- widely used free software license
+License- a permit from an  authority to own or use something
+MIT License- a license at the  MIT institute
+
+ Apache License- a license written by the  Apache software foundation
+EULA- The End User License Agreement * a legal contract *
+Creative Commons- a non-profit  organization
+
+
