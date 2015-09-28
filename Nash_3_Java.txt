@@ -1,0 +1,3 @@
+By creating a Four Loop w/ a ++ and a variable in it
+ Modulo "%" whatever number is needed 
+ an "if" statement needs to be created as well 
