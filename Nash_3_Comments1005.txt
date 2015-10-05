@@ -1,0 +1,2 @@
+Comments are messages leftthat help share code. But it is a annotation 
+in the source code of a program.
