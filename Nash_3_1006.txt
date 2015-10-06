@@ -1,0 +1,6 @@
+What Are Methods?
+ They are messages associated with a class
+What are Instances?
+A realization of any object
+What are class methods?
+a procedure associated with an object class
