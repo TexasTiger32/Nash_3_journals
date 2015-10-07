@@ -1,0 +1,2 @@
+A java class is a class where individual objects are created.
+
