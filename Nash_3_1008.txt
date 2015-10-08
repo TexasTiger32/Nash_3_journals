@@ -1,0 +1,14 @@
+What are your tentative thoughts / plans for your art project?
+As of right now I have no idea what I am going to do for my art project
+but now putting alot of thought towards thaty to make it as awesome as
+possible
+What might be methods you will use?
+gc *Graphics Context* calls the method that I will use
+How might you incorporate a for loop?
+So that I can do that certain picture in particular over and over again.
+It orders or commands my art to do some sort of action.
+How might you incorporate, if, else if, else?
+if else statements will be incorporated like if this is blue then the other
+is red etc. to make my project great
+What math might you use? 
+The certain  numbers to make a color a certrain color I want to use 
