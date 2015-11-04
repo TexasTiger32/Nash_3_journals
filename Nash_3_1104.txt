@@ -1,0 +1,7 @@
+A method is  lines of code that you use if you want to do something repeatedly
+you can tell it to count to 7 and if you want it to do it more than once
+call a method. I used methods in my guessing game my private voids are 
+created and called in main to ask the user what their name is and to pick
+a  number between 1-10. A while loop is a loop that does something while your
+ 4-loop is doing something. I used a boolean and counter to set
+ a guessing limit, and to answer if the guess was correct, or incorrect. By responding Too low or Too high try again. 
