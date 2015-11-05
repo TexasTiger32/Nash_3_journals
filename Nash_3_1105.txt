@@ -1,0 +1,5 @@
+Strings are sequence of characters that are implemented in your program
+They are good for writing long lines of code. Also for doing certain 
+things like storage etc
+String Methods are like char etc
+They have to be called in main .
