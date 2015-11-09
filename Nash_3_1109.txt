@@ -1,0 +1,4 @@
+Not quite ready still finishing up the planning side of my program
+I am still finishing my planning in emacs
+Creating the weapons and the story line will be my biggest challenges
+

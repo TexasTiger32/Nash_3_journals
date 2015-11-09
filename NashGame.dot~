@@ -1,0 +1,29 @@
+Digraph smiple_map {
+
+A[label="My Glorious Journey"]           // node B
+B[label="Choose the Female/Male Character"]         // node E
+C[label="Good Side"]
+D[label="Evil Side"]
+E[label="Going to have a conversation with The Man He will give you a job that requires some bloody handwork for a few bucks take it or leave it"]
+F[label="You are given the job to kill The Man and his assasin with no choice but the more money you ask for the more you have to do"]
+G[label="Yes"]
+I[label="No"]
+H[label="1,000,000"]
+J[label="2,000,000"]
+T[label="Choose A weapon"]
+Y[label="Youre now on the run from The Man"]
+
+
+
+A->B [label="commands", fontcolor=darkgreen ]
+B -> C
+B -> D
+C -> E
+D -> F
+E -> G
+E -> I
+F -> H
+F-> J
+G -> T
+I -> Y
+}
