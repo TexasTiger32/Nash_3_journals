@@ -1,0 +1,2 @@
+By creating the variable to send it to the respseccted areas. Creathe the 
+variable "HP" and set a counter "HP--" to subtract as it goes.
