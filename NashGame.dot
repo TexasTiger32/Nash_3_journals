@@ -11,12 +11,13 @@ I[label="No"]
 H[label="1,000,000"]
 J[label="2,000,000"]
 T[label="Choose A weapon"]
-Y[label="Youre now on the run from The Man"]
+Y[label="Youre now on the run "]
 O[label="You have to assassinate The Man's assassin"]
 P[label="Succeed"]
 R[label="Fail"]
 Q[label="Sniper(Range=7 Damage=10)"]
 W[label="Poison Bow(Range=6 Damage=7)"]
+M[label="You just take the money and run"]
 
 
 
@@ -37,5 +38,6 @@ O -> P
 O -> R
 T -> Q
 T -> W
-
+M -> Y
+H -> M
 }

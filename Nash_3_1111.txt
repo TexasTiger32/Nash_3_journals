@@ -1,0 +1,4 @@
+The objective is to kill "The Man" and if you choose to you have to kill the 
+assassin as well. My player has to slove what is the best weapon and way to
+kill the man a stay alive. Creating a Variable to keep track of total kills
+and one to keep count of lives and shots you took.
