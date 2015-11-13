@@ -1,0 +1,4 @@
+I will use a while loop to keep running my game until the users input is false
+or didnt meet the expectation. I will use methods to be able to let my players
+do things that they need to do to win the game so I will use them to supple
+the needs for my players.
