@@ -1,0 +1,3 @@
+I will use my methods to create certain objects and to create a health bar 
+when needed. My value will be the health of the player at that time in the
+game.
