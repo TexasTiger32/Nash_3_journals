@@ -1,0 +1,9 @@
+We add pictures by 
+Image antidote = new Image("res/");
+by that  line off code you can add a picture to your game 
+and to draw an object
+"".currentanime.draw("".Bx,"".By);
+allows you to draw your object
+then call that object
+"" = new Object(1170, 1550);
+        "".add("");
