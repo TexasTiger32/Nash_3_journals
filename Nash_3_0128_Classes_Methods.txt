@@ -1,0 +1,4 @@
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException { 
+This is a class (Render) "public void ___" os the main start up of a class or 
+calling a class 
