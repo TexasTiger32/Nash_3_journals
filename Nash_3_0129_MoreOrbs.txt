@@ -1,0 +1,5 @@
+A class constructor is something that prepares an object for new use 
+In an orb Class Constructor the command line for whatever you want the orbs 
+to or be used for should be included
+Position and size, also the direction you want the Orbs to be, and the speed 
+and the damage it taked away when it stikes
