@@ -1,0 +1,4 @@
+I have to make it neater and put all my certain code in their respective 
+classes and not just have one long script of code. The code is already my own 
+with all the methods and classes I've created so really I just have to make 
+it easy to access all my material.
