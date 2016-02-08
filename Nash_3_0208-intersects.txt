@@ -1,0 +1,9 @@
+By looking at the counter set in the code for every time the object intersects
+your player it takes away health
+if (orb1.hitbox.intersects(i.rect)){
+                   i.isvisible = false;
+             }
+               if(i.isvisible) {
+                  Player.health -= 10000;
+                   i.isvisible = false;
+
