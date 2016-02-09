@@ -1,0 +1,14 @@
+To get your object or enemy to move to put these few lines of code 
+
+float projectedright = Player.x + fdelta + SIZE;
+
+        boolean cangoright = projectedright < rightlimit;
+         for (Enemy i : I) {
+             
+            //i.move();
+
+Or put your KEY-Direction so that whenever you press that key it
+ goes in that direction with you for example
+ if (input.isKeyDown(Input.KEY_UP))
+ if (input.isKeyDown(Input.KEY_UP))
+and so on so forth
