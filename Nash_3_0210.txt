@@ -1,0 +1,10 @@
+Why does my Orb not shoot in the direction I want it to?
+Why does my Orb pnly shoot half the time I play it?
+My orb is really big do i just resize it in Gimp?
+Why is it that when i put in the codfor my enemy not to just follow but sort 
+attack me it is stuck on my player like glue?
+Why do my Orbs appear so long after I press the space bar?
+whenever my enemy intersect with my player it doesnt take away the same amount
+of health I programmed it to take away, why is that?
+
+
