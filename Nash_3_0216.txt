@@ -1,0 +1,3 @@
+public ArrayList<Itemwin> stuffwin = new ArrayList();
+we created Array's or Array List of the objects that we were using.
+We also use arrays to set up the Hitbox and to instantiate things etc 
