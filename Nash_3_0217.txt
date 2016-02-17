@@ -1,0 +1,15 @@
+Array's are used to contain an object that holds a fixed number of values
+ of a single type.
+int[] things = new int[];
+String [] names = new String[];
+boolean[] truefalse = new boolean[];
+double [] numbers = new double[];
+int[] number = new int[]; 
+number[0] = 42;
+String[] names = new String[];
+String[0] = "Bob";
+The Strings create an new int for the certain dessert
+Creates a class/int for Rice pudding, pan DUlce, bunuelos
+They are different because the first String doent have it for a certain dessert
+the others hvae a dessert tied to it 
+you replace it by changing the name to apple pie
