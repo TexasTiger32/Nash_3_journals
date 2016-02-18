@@ -1,0 +1,15 @@
+The code is giving the Player the animation to go up in the game.
+An array is a is a container object that holds a fixed number of
+ values of a single type.
+int[] array = new int[];
+An array list is a container object that holds a list of objects
+ public ArrayList<Itemwin> stuffwin = new ArrayList();
+we identified Item, Item1, Enemy, etc
+An Array only holds one object an Array List holds list of objects
+for (Avatar : a) {
+            
+         if (Player.rect.intersects(i.rect)){
+              if(i.isvisible) {
+                  Player.health -= 10000;
+}
+
