@@ -2,3 +2,7 @@ Yes, for the most part I am ready for the test Friday.
 How many Enemies are we making in our edited game?
 How exactly are we going to create the traps in the Slick Game?
 Is there a minimum amount of levels we need to make?
+Look at all the errors that pop up in your code , yes I believe I am prepared
+for the task ahead. I do but at the same time I have some questions about some
+lines of code that im pretty sure Mr.Davis will explain to where I understand
+it.
