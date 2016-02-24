@@ -1,0 +1,9 @@
+public int main {
+public rat = new Rat ();
+public ArrayList<Rat> rat1, rat2, rat3, rat4, rat5 = new ArrayList();
+
+
+We declare the rats in our main class also when we instantiate the objects
+
+
+}
