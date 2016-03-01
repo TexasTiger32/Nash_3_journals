@@ -1,0 +1,42 @@
+public class Donut {
+
+}
+
+2.Donut Bismarck = new Donut();
+Is this a class constructor?
+No, it is instantiating/creating another "Donut" object - it's calling the 
+class constructor, with Donut();
+3.How do we make a class with values and a class constructor?
+Public class Breakfast {
+	boolean hasEggs;
+	int numOfEggs;
+	boolean hasBacon;
+	boolean hasOrangeJuice;
+	int slicesOfBacon;
+
+	Breakfast(int a, int b, boolean c, boolean d, boolean e) {
+		this.numofEggs = a;
+		this.slicesOfBacon = b;
+		this.hasEggs = c;
+		this.hasBacon = d;
+		this.hasOrangeJuice = e;
+	
+	}
+	//This getter gets things, i.e., namely in java and oop
+	//a getter is usually public so that it can share out private values
+	//e.g. a getter for slices of bacon tells the main class how many 
+	//slices of bacon
+
+	public int SlicesOfBacon() {
+		return this.slicesOfBacon;
+
+}
+	//A getter returns the value, by contrast, a setter sets values
+	//For Example, to set whether we have orange juice
+	
+	public void setHasOrangeJuice(boolean a){
+		this.hasOrangeJuice = a;
+}
+
+4. An Array of Breakfast
+int
