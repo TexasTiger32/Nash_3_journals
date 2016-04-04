@@ -1,0 +1,10 @@
+We have brainstormed a multitude of ideas and finally we have decided
+to do a tic-tac-toe game board.
+we have figured everything we need to create the game and the steps
+we need to take to accomplish our goal of making a great game.
+as of right now we just need to put it together and get this game going
+Friday I believe we can turn in a complete game if Wyland shows up a few 
+days out of the week.
+if it is ust me I can get the game working and have a good game working by 
+Friday.
+We havent created any Functions yet or made any code changes to our program
