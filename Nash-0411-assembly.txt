@@ -7,3 +7,10 @@ programming language.
 "Assembly language programs contain only the code that is necessary 
 to perform the given task." 
 3)
+Assembly is considered " Low Level"
+4)
+High Level is more complexed in comparison to Low Level coding languages 
+5)
+Java is High Level 
+6)
+Assembly is Low Level
