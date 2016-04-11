@@ -1,0 +1,9 @@
+1)
+From asking around it has came to my knowledge that "Assembly" is a language 
+program." A low level symbolic code converted by an assembler"
+programming language.
+2)
+"Assembly gives direct control over the system harware"
+"Assembly language programs contain only the code that is necessary 
+to perform the given task." 
+3)

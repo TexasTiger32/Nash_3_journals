@@ -1,0 +1,29 @@
+What differences have I noticed in the Arduino variant of languages?
+-There is no main class, only a setup class which starts the program.
+-Many of the classes that we used did not require a return value, as they could just be using in each different method.
+-We did not have to import any packages into the program to get it to work.
+
+What code adaptations did we make?
+-Roeder and I took the code for the examples for the buzzer and button, pasted the basic code from each into our
+program, and changed the pin locations and names to fit what we were doing, and added more declarations of
+buttonPins and buzzerPins to make the piano work.
+
+What is required for a circuit?O
+
+-For a circuit to work, we need some type of connection to the Arduino, and a Power/Ground cabble to power it.
+
+How are programs compiled with Arduino?
+-Arduino programs are compiled organizing the code, building the program, and sending the information to the
+Arduino so that it can perform the task created in the code.
+
+Describe the projects I have completed this/last week and what I learned from them?
+The most impactful projects I have completed in the past week were the button/led project and the buzzer project,
+as that is what we used to make our Piano. Using the examples, we were able to understand how the buzzer and
+buttons worked, and how we would be able to mesh them together to make them work in sync to create a working
+piano, and how we would be able to change the frequency so that it go up the scale one complete octave.
+
+Describe my project and the code adaptations I will have to make.
+-The project we have chosen to make is a working piano, with 8 keys, going up an entire octave from C to C,
+using one buzzer and 8 buttons. The code adaptations that we had to make were just simple ones that changed the
+tone that the buzzer played, and making sure the specific button was LOW so that the buzzer could play the tone
+accompanied by the button that was pressed.
