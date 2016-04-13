@@ -1,0 +1,4 @@
+The biggest problem-solving chaleng I solved yesterday was separating the 
+zero's and putting them in the outbox. The wa I did it orked but it wasn't the
+fastest way to get it done. So by just stopping and actually reading
+the instructions I figured it out.
