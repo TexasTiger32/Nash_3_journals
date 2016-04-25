@@ -1,0 +1,17 @@
+The 10 Concepts I believe will be om the assessment are the following
+*Having the proper syntax and knowing what that is 
+* Arduino Syntax
+* JavaFX the java based  programs
+* Java and all of our gaming design criteria
+
+*Slick2D the gaming design based in slick
+*Objects and knowing what they are
+*Classes and know what they are
+*Assembly
+knowing the differences and the similarities or that and Java
+*Arduino
+We worked on that for a good time so its expected to be workable and very well
+known
+*working through the console 
+reason why we didnt really work or talk about it it was expected to already be
+known
