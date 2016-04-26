@@ -1,0 +1,47 @@
+//Java
+import java.util.Scanner;
+
+Scanner x = new Scanner(System.in);
+int k = x.nextInt();
+k * k = t;
+System.out.println(t);
+
+
+//Arduino Function
+
+void setup() {
+}
+void loop (){
+	cubed(3);
+}
+
+int cubed (int number){
+	int squared;
+	int cubed; 
+
+	squared = number*number;
+	cubed = number*squared;
+
+	return cubed;
+
+//Class
+public class Student {
+	int height;
+	int weight;
+	string eyeColor;
+	int grade;
+	public Student(int a, int b, string c, int d){
+		this.height = a;
+		this.weight = b;
+		this.eyeColor = c;
+		this.grade = d;
+
+     }
+  }
+}
+// Arduino Decision
+
+If we were to make aother game on the Arduino I would make a Tic-Tac-Toe game
+now that I have a better understanding of the arduino I believe the process
+would be easier. 
+

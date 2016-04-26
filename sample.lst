@@ -1,0 +1,19 @@
+     1                                  global _start
+     2                                  
+     3                                          section .text
+     4                                  _start:
+     5                                  	; write(1, message, 13)
+     6 00000000 B801000000              	mov	 rax, 1				; system call 1 is write
+     7 00000005 BF01000000              	mov	 rdi, 1				; file handle 1 is stdout
+     8 0000000A 48BE-                   	mov	 rsi, message			; adress pf string to  output
+     9 0000000C [2500000000000000] 
+    10 00000014 BA0F000000              	mov	 rdx, 15
+    11 00000019 0F05                    	syscall
+    12                                  
+    13                                  	; exit(0)
+    14 0000001B B83C000000              	mov	 eax, 60
+    15 00000020 4831FF                  	xor	 rdi, rdi
+    16 00000023 0F05                    	syscall
+    17                                  message:
+    18 00000025 576173207468697320-     	db	"Was this easy?", 10
+    19 0000002E 656173793F0A       
