@@ -1,0 +1,34 @@
+
+Elf64 tells the computer how to handle the code based on the operating system
+
+ld combines a number of objects, relocates data and assembls the program
+
+Because chmod was not necessary to compile assembly
+
+Assembly is definitely not "quick and easy" as most people said, and actally
+takes a lot of time and effort to do the simplist tasks, such as printing
+your name.
+
+"low level" programming is just how close to the actual processor the code
+that you are writing is. Assembly is very low level becuase you are
+basically just writing directly to the processor and telling it what to do.
+
+
+global _start
+
+        section .text
+_start:
+        ; write(1, message, 12)
+        mov     rax, 1                  ; system call 1 is write
+        mov     rdi, 1                  ; file handle 1 is stdout
+        mov     rsi, message            ; address of string to output
+        mov     rdx, 15                 ; number of bytes
+        syscall                         ; invoke operating system to do the wri$
+
+        ; exit(0)
+        mov     eax, 60                 ; system call 60 is exit
+        xor     rdi, rdi                ; exit code 0
+        syscall                         ; invoke operating system to exit
+message:
+        db      "Isaiah Nash", 12      ; note the neline at the end
+
