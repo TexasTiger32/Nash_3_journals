@@ -1,0 +1,30 @@
+An array is a container object that holds a fixed number of values of
+ a single type.
+ 
+static String[][] myArray = new String[a][b];
+
+int[][] myArray = new int[5][5];
+int[][][] myArray = new int[5][5][5];
+
+array[5] = 10;
+
+ while (expression) {
+     statement
+}
+A while loop is helpful when you want to do something while another value or
+something is selected. So while it is doing the action it is suppose to do when
+that value is selected and while loop is made to do another thing WHILE that
+action is in process.
+
+int(value);
+String(value);
+You put whatever Data Type and then put the respective value and end with a 
+semi-colon
+
+So if it was put in caps it would mess up to code  within our Scanner input
+
+Have a method one to create your protagonist and one to give it th values for
+speed, direction, etc. Then create a method for health/intersection so that it
+takes away health when intersected.
+
+Coordinate values, Health Values, Intersection, Speed, etc
