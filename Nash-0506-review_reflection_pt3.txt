@@ -1,0 +1,54 @@
+The "x" coordinate is the variable "i" and the "y" is the variable "j"
+
+for (int i = 0; i <= map[0].length - 1; i++) {
+            for (int j = 0; j <= map[1].length - 1; j++) {
+                if (j < map[1].length - 1) {
+                  if (i=0){ System.out.print("8888"); #a
+                    } else if (map[i][j] != 'x') {
+                        System.out.print("."); #e
+                    } else {
+                        System.out.print(map[i][j]); #b
+                    }
+                } else {
+                    if (map[i][j] != 'x') {
+                        System.out.println("."); #c
+                    } else {
+                        System.out.println(map[i][j]); #d
+                    }
+                }
+            }
+        }
+    }
+      
+if (i=0){ System.out.print("8888"); #a
+This line of code pretty much say that if i is the equivalent of "0" then it will print "8888"
+
+else {
+                        System.out.print(map[i][j]); #b
+                    }
+This line of code prints the "matrix"
+
+else {
+                    if (map[i][j] != 'x') {
+                        System.out.println("."); #c
+This line of code is going to print "." if map[i][j] doesnt not equal "x"
+
+else {
+                        System.out.println(map[i][j]); #d
+                    }
+                }
+This line of code will print out the "Matrix" map[i][j]
+
+else if (map[i][j] != 'x') {
+                        System.out.print("."); #e
+                    }
+This line of code will print "." if map[i][j] does not equal "x"
+
+while(true) {
+//code comment
+}
+So this is do a certain thing only while the boolean is true in the program 
+A static is used when you want to make a value open so it can be pased throughout the program
+i.e., public static void {
+}
+
