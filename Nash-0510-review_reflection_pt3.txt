@@ -1,0 +1,30 @@
+public static void Hero() {
+
+	int health = 245;
+	int score =
+	int strength = 99;
+	char Weapon = "Pistol";
+	int dexterity = 10;
+	String perception 15;
+	int level();	
+	String n;
+	int x = damage;
+	int y = ammo;
+	int z = Bomb;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
