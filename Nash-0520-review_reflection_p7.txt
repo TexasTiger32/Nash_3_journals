@@ -1,0 +1,16 @@
+	public static Player player;
+	ogreBob = new Ogre(x, y);
+	public static void setogreBobX(int ogreBobX) {
+		Ogre.setX = ogreBobX;
+
+	 public static void moveOgre() {
+        Scanner Direction = new Scanner(System.in);
+        String userInput = Direction.next();
+        if (coordinate[0] <= coordinate[x]) {
+            myArray[coordinate[x]][coordinate[y]] = '.';
+            coordinate[x]--;
+
+        }
+
+	Ogre [] ogre = 3;
+	Ogre[] = new ogre bob;

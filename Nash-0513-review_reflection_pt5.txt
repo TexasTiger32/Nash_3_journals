@@ -1,0 +1,12 @@
+I already had knowledge of arrays and how they work and how to work them, 
+thanks to the help of Mr.Davis and some friends. Going into the Array Assignment
+I  was confident in my ability to work with them I just stumbled across 
+some minor problems but with help I figured it out.
+
+How can you make your treasure regenerate but at a different posistion?
+What is the easiest way to apply blocked to the array?
+How do you use a "Random" correctly?
+Whats the proper way to use a "while" loop?
+I want my enemies to follow me even when I haven't put in an input for my 
+player to move, how would I do that?
+These are the only questions I have honestly. 
