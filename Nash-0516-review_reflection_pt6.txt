@@ -1,0 +1,18 @@
+what is upcasting?
+    	Upcasting is giving a given variable a higher data type	
+
+what is downcasting?
+	 Downcasting is giving a given variable a lower data type  
+
+Give specific code for upcasting
+	int Z;
+	float G;
+	G = Z;
+
+Give specific code for downcasting
+        int Z;
+        float G;
+        Z = (int)G;
+
+0 - 1 for a single byte
+
