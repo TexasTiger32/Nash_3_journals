@@ -1,0 +1,8 @@
+The Similarities
+The syntax for both The Human Source Machine is the same as Java using the
+ same main structure should I say as Java.
+
+The Differences 
+How we actually we have execute the problem is different that how we would
+ do it in java. They also have different names for things that do the same
+things as the a line of code does in Java
